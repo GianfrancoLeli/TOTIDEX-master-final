@@ -7,3 +7,5 @@ Para Iniciar o Backend do projeto usar npm install e depois nodemon index.js
 para iniciar o Frontend do projeto usar cd frontend, depois npm install e depois ng serve
 
 espero que curtam o projeto tanto quanto nos.
+
+Conteudo do Projeto no Branch Master
